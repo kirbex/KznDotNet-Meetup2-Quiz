@@ -1,4 +1,6 @@
-﻿namespace QuizTasks.Tasks
+﻿// Сколько SQL запросов будет выполнено?
+
+namespace QuizTasks.Tasks
 {
     using System.Linq;
 

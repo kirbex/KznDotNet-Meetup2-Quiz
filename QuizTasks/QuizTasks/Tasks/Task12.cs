@@ -1,4 +1,6 @@
-﻿namespace QuizTasks.Tasks
+﻿// Что нужно, чтобы кастомный класс можно было использовать в цикле foreach?
+
+namespace QuizTasks.Tasks
 {
     internal static class Task12
     {

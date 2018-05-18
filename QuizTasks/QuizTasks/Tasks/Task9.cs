@@ -1,4 +1,6 @@
-﻿namespace QuizTasks.Tasks
+﻿// Чему будет равно значение переменной whatIsGoingOnHere?
+
+namespace QuizTasks.Tasks
 {
     using System;
 

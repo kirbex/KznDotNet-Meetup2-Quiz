@@ -1,4 +1,6 @@
-﻿namespace QuizTasks.Tasks
+﻿// Что выведен данный код?
+
+namespace QuizTasks.Tasks
 {
     using System;
     using System.Collections.Generic;

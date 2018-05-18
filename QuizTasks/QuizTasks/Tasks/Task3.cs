@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Что выведет данный код?
+
+using System;
 using System.Xml;
 
 namespace QuizTasks.Tasks

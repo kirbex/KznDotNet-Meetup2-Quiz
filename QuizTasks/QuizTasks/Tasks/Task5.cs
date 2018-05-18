@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Что выведет данный код?
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

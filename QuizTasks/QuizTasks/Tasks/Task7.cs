@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Можно ли сделать так, чтобы данный код компилировался и выполнялся?
+
+using System;
 using System.Runtime.CompilerServices;
 
 namespace QuizTasks.Tasks
